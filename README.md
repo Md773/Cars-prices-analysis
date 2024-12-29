@@ -30,11 +30,15 @@ This project demonstrates the end-to-end process of analyzing car sales data usi
 #### . GitHub: ####
   Repository for project sharing and collaboration.
 
-## 📈 Project Workflow
+## 🗂 **Project Workflow**  
+1. **Data Collection**: Extracted raw car sales data.  
+2. **Data Preparation**:  
+   - Cleaned and transformed using **Excel Power Query**.  
+   - Automated workflows for repeatable use.  
+3. **Visualization Development**: Designed an interactive dashboard in Power BI.  
+4. **Insights Generation**: Identified trends and proposed actionable recommendations.
 
-1.Data Collection: Extracted and reviewed raw car sales data.
-2. Data Preparation:
-  . Cleaned and transformed the data using Excel Power Query.
-  . Automated workflows for repeatable and efficient analysis.
-3. Visualization Development: Designed a dynamic and insightful dashboard in Power BI.
-4. Insights Generation: Analyzed trends and provided actionable recommendations.
+---
+
+## 🙌 **Acknowledgments**  
+This project is inspired by the **"Excel Skills for Data Analysis"** course on Coursera, which enhanced my expertise in data preparation and analysis.
